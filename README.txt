@@ -1,4 +1,4 @@
-NoCmodel 0.1 
+NoCmodel 0.2 
 ============
 
 What is NoCmodel?
@@ -17,7 +17,7 @@ Requirements
 
     * Python (version 2.6 or later)
     * NetworkX (version 1.4 or later) [http://networkx.lanl.gov]
-    * MyHDL (version 0.6 or later) [http://www.myhdl.org]
+    * MyHDL (version 0.7 or later) [http://www.myhdl.org]
 
 Installation
 ------------
@@ -44,4 +44,4 @@ Authors
 
 * Oscar Diaz <dargor@opencores.org>
 
-Last update: Thu, 03 Mar 2011 18:00:20 +0100
+Last update: Thu, 05 Jul 2012 22:18:47 +0200

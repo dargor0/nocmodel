@@ -6,7 +6,7 @@
 #
 # Author:  Oscar Diaz
 # Version: 0.2
-# Date:    14-03-2011
+# Date:    05-07-2012
 
 #
 # This code is free software; you can redistribute it and/or

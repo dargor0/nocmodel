@@ -5,8 +5,8 @@
 # NoCmodel - setup file
 #
 # Author:  Oscar Diaz
-# Version: 0.1
-# Date:    03-03-2011
+# Version: 0.2
+# Date:    05-07-2011
 
 #
 # This code is free software; you can redistribute it and/or
@@ -29,6 +29,7 @@
 # Changelog:
 #
 # 03-03-2011 : (OD) initial release
+# 05-07-2011 : (OD) second release
 #
 
 from distutils.core import setup
